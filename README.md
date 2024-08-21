@@ -1,8 +1,14 @@
+![image](https://github.com/user-attachments/assets/d73095b6-e5f0-40c2-af57-68d584ba4d61)
+
 # 🎓 Decentralized Grading System
 
 ## Overview
+### Contract Address: 0x64Aa551b7AdE03242560D76Efd3df7F2296cE566
+![image](https://github.com/user-attachments/assets/38ab152c-af1e-4fb4-ab7c-b693fea3ebbc)
 
 The Decentralized Grading System is a smart contract built on the Ethereum blockchain that allows for the decentralized management of student grades. Designed to be secure and transparent, this system ensures that grades are recorded immutably and can only be modified by authorized teachers.
+
+##
 
 ## Features
 
